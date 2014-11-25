@@ -1,0 +1,441 @@
+"rgn_id","species","sust_coeff"
+2,"Atlantic bluefin tuna",0.316666667
+9,"Atlantic bluefin tuna",0.316666667
+6,"Atlantic bluefin tuna",0.316666667
+1,"Atlantic bluefin tuna",0.316666667
+4,"Atlantic bluefin tuna",0.316666667
+8,"Atlantic bluefin tuna",0.316666667
+5,"Atlantic bluefin tuna",0.316666667
+7,"Atlantic bluefin tuna",0.316666667
+10,"Atlantic bluefin tuna",0.316666667
+3,"Atlantic bluefin tuna",0.316666667
+2,"Atlantic salmon",0.17
+9,"Atlantic salmon",0.17
+6,"Atlantic salmon",0.17
+1,"Atlantic salmon",0.17
+4,"Atlantic salmon",0.17
+8,"Atlantic salmon",0.17
+5,"Atlantic salmon",0.17
+7,"Atlantic salmon",0.17
+10,"Atlantic salmon",0.17
+3,"Atlantic salmon",0.17
+2,"Banded carpet shell",0.811764706
+9,"Banded carpet shell",0.811764706
+6,"Banded carpet shell",0.811764706
+1,"Banded carpet shell",0.811764706
+4,"Banded carpet shell",0.811764706
+8,"Banded carpet shell",0.811764706
+5,"Banded carpet shell",0.811764706
+7,"Banded carpet shell",0.811764706
+10,"Banded carpet shell",0.811764706
+3,"Banded carpet shell",0.811764706
+2,"Blackspot(=red) seabream",0.444010417
+9,"Blackspot(=red) seabream",0.444010417
+6,"Blackspot(=red) seabream",0.444010417
+1,"Blackspot(=red) seabream",0.444010417
+4,"Blackspot(=red) seabream",0.444010417
+8,"Blackspot(=red) seabream",0.444010417
+5,"Blackspot(=red) seabream",0.444010417
+7,"Blackspot(=red) seabream",0.444010417
+10,"Blackspot(=red) seabream",0.444010417
+3,"Blackspot(=red) seabream",0.444010417
+2,"Brown meagre",0.444010417
+9,"Brown meagre",0.444010417
+6,"Brown meagre",0.444010417
+1,"Brown meagre",0.444010417
+4,"Brown meagre",0.444010417
+8,"Brown meagre",0.444010417
+5,"Brown meagre",0.444010417
+7,"Brown meagre",0.444010417
+10,"Brown meagre",0.444010417
+3,"Brown meagre",0.444010417
+2,"Common dentex",0.444010417
+9,"Common dentex",0.444010417
+6,"Common dentex",0.444010417
+1,"Common dentex",0.444010417
+4,"Common dentex",0.444010417
+8,"Common dentex",0.444010417
+5,"Common dentex",0.444010417
+7,"Common dentex",0.444010417
+10,"Common dentex",0.444010417
+3,"Common dentex",0.444010417
+2,"Common edible cockle",0.733333333
+9,"Common edible cockle",0.733333333
+6,"Common edible cockle",0.733333333
+1,"Common edible cockle",0.733333333
+4,"Common edible cockle",0.733333333
+8,"Common edible cockle",0.733333333
+5,"Common edible cockle",0.733333333
+7,"Common edible cockle",0.733333333
+10,"Common edible cockle",0.733333333
+3,"Common edible cockle",0.733333333
+2,"Common prawn",0.366666667
+9,"Common prawn",0.366666667
+6,"Common prawn",0.366666667
+1,"Common prawn",0.366666667
+4,"Common prawn",0.366666667
+8,"Common prawn",0.366666667
+5,"Common prawn",0.366666667
+7,"Common prawn",0.366666667
+10,"Common prawn",0.366666667
+3,"Common prawn",0.366666667
+2,"Common sole",0.533333333
+9,"Common sole",0.533333333
+6,"Common sole",0.533333333
+1,"Common sole",0.533333333
+4,"Common sole",0.533333333
+8,"Common sole",0.533333333
+5,"Common sole",0.533333333
+7,"Common sole",0.533333333
+10,"Common sole",0.533333333
+3,"Common sole",0.533333333
+2,"Cupped oysters nei",0.9
+9,"Cupped oysters nei",0.9
+6,"Cupped oysters nei",0.9
+1,"Cupped oysters nei",0.9
+4,"Cupped oysters nei",0.9
+8,"Cupped oysters nei",0.9
+5,"Cupped oysters nei",0.9
+7,"Cupped oysters nei",0.9
+10,"Cupped oysters nei",0.9
+3,"Cupped oysters nei",0.9
+2,"Donax clams",0.811764706
+9,"Donax clams",0.811764706
+6,"Donax clams",0.811764706
+1,"Donax clams",0.811764706
+4,"Donax clams",0.811764706
+8,"Donax clams",0.811764706
+5,"Donax clams",0.811764706
+7,"Donax clams",0.811764706
+10,"Donax clams",0.811764706
+3,"Donax clams",0.811764706
+2,"European eel",0.43
+9,"European eel",0.43
+6,"European eel",0.43
+1,"European eel",0.43
+4,"European eel",0.43
+8,"European eel",0.43
+5,"European eel",0.43
+7,"European eel",0.43
+10,"European eel",0.43
+3,"European eel",0.43
+2,"European flat oyster",0.83
+9,"European flat oyster",0.83
+6,"European flat oyster",0.83
+1,"European flat oyster",0.83
+4,"European flat oyster",0.83
+8,"European flat oyster",0.83
+5,"European flat oyster",0.83
+7,"European flat oyster",0.83
+10,"European flat oyster",0.83
+3,"European flat oyster",0.83
+2,"European seabass",0.43
+9,"European seabass",0.43
+6,"European seabass",0.43
+1,"European seabass",0.43
+4,"European seabass",0.43
+8,"European seabass",0.43
+5,"European seabass",0.43
+7,"European seabass",0.43
+10,"European seabass",0.43
+3,"European seabass",0.43
+2,"Flathead grey mullet",0.43
+9,"Flathead grey mullet",0.43
+6,"Flathead grey mullet",0.43
+1,"Flathead grey mullet",0.43
+4,"Flathead grey mullet",0.43
+8,"Flathead grey mullet",0.43
+5,"Flathead grey mullet",0.43
+7,"Flathead grey mullet",0.43
+10,"Flathead grey mullet",0.43
+3,"Flathead grey mullet",0.43
+2,"Gilthead seabream",0.17
+9,"Gilthead seabream",0.17
+6,"Gilthead seabream",0.17
+1,"Gilthead seabream",0.17
+4,"Gilthead seabream",0.17
+8,"Gilthead seabream",0.17
+5,"Gilthead seabream",0.17
+7,"Gilthead seabream",0.17
+10,"Gilthead seabream",0.17
+3,"Gilthead seabream",0.17
+2,"Great Atlantic scallop",0.811764706
+9,"Great Atlantic scallop",0.811764706
+6,"Great Atlantic scallop",0.811764706
+1,"Great Atlantic scallop",0.811764706
+4,"Great Atlantic scallop",0.811764706
+8,"Great Atlantic scallop",0.811764706
+5,"Great Atlantic scallop",0.811764706
+7,"Great Atlantic scallop",0.811764706
+10,"Great Atlantic scallop",0.811764706
+3,"Great Atlantic scallop",0.811764706
+2,"Greater amberjack",0.444010417
+9,"Greater amberjack",0.444010417
+6,"Greater amberjack",0.444010417
+1,"Greater amberjack",0.444010417
+4,"Greater amberjack",0.444010417
+8,"Greater amberjack",0.444010417
+5,"Greater amberjack",0.444010417
+7,"Greater amberjack",0.444010417
+10,"Greater amberjack",0.444010417
+3,"Greater amberjack",0.444010417
+2,"Grooved carpet shell",0.866666667
+9,"Grooved carpet shell",0.866666667
+6,"Grooved carpet shell",0.866666667
+1,"Grooved carpet shell",0.866666667
+4,"Grooved carpet shell",0.866666667
+8,"Grooved carpet shell",0.866666667
+5,"Grooved carpet shell",0.866666667
+7,"Grooved carpet shell",0.866666667
+10,"Grooved carpet shell",0.866666667
+3,"Grooved carpet shell",0.866666667
+2,"Groundfishes nei",0.444010417
+9,"Groundfishes nei",0.444010417
+6,"Groundfishes nei",0.444010417
+1,"Groundfishes nei",0.444010417
+4,"Groundfishes nei",0.444010417
+8,"Groundfishes nei",0.444010417
+5,"Groundfishes nei",0.444010417
+7,"Groundfishes nei",0.444010417
+10,"Groundfishes nei",0.444010417
+3,"Groundfishes nei",0.444010417
+2,"Japanese carpet shell",0.841666667
+9,"Japanese carpet shell",0.841666667
+6,"Japanese carpet shell",0.841666667
+1,"Japanese carpet shell",0.841666667
+4,"Japanese carpet shell",0.841666667
+8,"Japanese carpet shell",0.841666667
+5,"Japanese carpet shell",0.841666667
+7,"Japanese carpet shell",0.841666667
+10,"Japanese carpet shell",0.841666667
+3,"Japanese carpet shell",0.841666667
+2,"Kuruma prawn",0.5
+9,"Kuruma prawn",0.5
+6,"Kuruma prawn",0.5
+1,"Kuruma prawn",0.5
+4,"Kuruma prawn",0.5
+8,"Kuruma prawn",0.5
+5,"Kuruma prawn",0.5
+7,"Kuruma prawn",0.5
+10,"Kuruma prawn",0.5
+3,"Kuruma prawn",0.5
+2,"Mackerels nei",0.444010417
+9,"Mackerels nei",0.444010417
+6,"Mackerels nei",0.444010417
+1,"Mackerels nei",0.444010417
+4,"Mackerels nei",0.444010417
+8,"Mackerels nei",0.444010417
+5,"Mackerels nei",0.444010417
+7,"Mackerels nei",0.444010417
+10,"Mackerels nei",0.444010417
+3,"Mackerels nei",0.444010417
+2,"Marine fishes nei",0.477777778
+9,"Marine fishes nei",0.477777778
+6,"Marine fishes nei",0.477777778
+1,"Marine fishes nei",0.477777778
+4,"Marine fishes nei",0.477777778
+8,"Marine fishes nei",0.477777778
+5,"Marine fishes nei",0.477777778
+7,"Marine fishes nei",0.477777778
+10,"Marine fishes nei",0.477777778
+3,"Marine fishes nei",0.477777778
+2,"Marine molluscs nei",0.533333333
+9,"Marine molluscs nei",0.533333333
+6,"Marine molluscs nei",0.533333333
+1,"Marine molluscs nei",0.533333333
+4,"Marine molluscs nei",0.533333333
+8,"Marine molluscs nei",0.533333333
+5,"Marine molluscs nei",0.533333333
+7,"Marine molluscs nei",0.533333333
+10,"Marine molluscs nei",0.533333333
+3,"Marine molluscs nei",0.533333333
+2,"Meagre",0.444010417
+9,"Meagre",0.444010417
+6,"Meagre",0.444010417
+1,"Meagre",0.444010417
+4,"Meagre",0.444010417
+8,"Meagre",0.444010417
+5,"Meagre",0.444010417
+7,"Meagre",0.444010417
+10,"Meagre",0.444010417
+3,"Meagre",0.444010417
+2,"Mullets nei",0.561111111
+9,"Mullets nei",0.561111111
+6,"Mullets nei",0.561111111
+1,"Mullets nei",0.561111111
+4,"Mullets nei",0.561111111
+8,"Mullets nei",0.561111111
+5,"Mullets nei",0.561111111
+7,"Mullets nei",0.561111111
+10,"Mullets nei",0.561111111
+3,"Mullets nei",0.561111111
+2,"Octopuses nei",0.533333333
+9,"Octopuses nei",0.533333333
+6,"Octopuses nei",0.533333333
+1,"Octopuses nei",0.533333333
+4,"Octopuses nei",0.533333333
+8,"Octopuses nei",0.533333333
+5,"Octopuses nei",0.533333333
+7,"Octopuses nei",0.533333333
+10,"Octopuses nei",0.533333333
+3,"Octopuses nei",0.533333333
+2,"Pacific cupped oyster",0.83
+9,"Pacific cupped oyster",0.83
+6,"Pacific cupped oyster",0.83
+1,"Pacific cupped oyster",0.83
+4,"Pacific cupped oyster",0.83
+8,"Pacific cupped oyster",0.83
+5,"Pacific cupped oyster",0.83
+7,"Pacific cupped oyster",0.83
+10,"Pacific cupped oyster",0.83
+3,"Pacific cupped oyster",0.83
+2,"Palaemonid shrimps nei",0.366666667
+9,"Palaemonid shrimps nei",0.366666667
+6,"Palaemonid shrimps nei",0.366666667
+1,"Palaemonid shrimps nei",0.366666667
+4,"Palaemonid shrimps nei",0.366666667
+8,"Palaemonid shrimps nei",0.366666667
+5,"Palaemonid shrimps nei",0.366666667
+7,"Palaemonid shrimps nei",0.366666667
+10,"Palaemonid shrimps nei",0.366666667
+3,"Palaemonid shrimps nei",0.366666667
+2,"Palinurid spiny lobsters nei",0.416666667
+9,"Palinurid spiny lobsters nei",0.416666667
+6,"Palinurid spiny lobsters nei",0.416666667
+1,"Palinurid spiny lobsters nei",0.416666667
+4,"Palinurid spiny lobsters nei",0.416666667
+8,"Palinurid spiny lobsters nei",0.416666667
+5,"Palinurid spiny lobsters nei",0.416666667
+7,"Palinurid spiny lobsters nei",0.416666667
+10,"Palinurid spiny lobsters nei",0.416666667
+3,"Palinurid spiny lobsters nei",0.416666667
+2,"Pollack",0.444010417
+9,"Pollack",0.444010417
+6,"Pollack",0.444010417
+1,"Pollack",0.444010417
+4,"Pollack",0.444010417
+8,"Pollack",0.444010417
+5,"Pollack",0.444010417
+7,"Pollack",0.444010417
+10,"Pollack",0.444010417
+3,"Pollack",0.444010417
+2,"Pullet carpet shell",0.833333333
+9,"Pullet carpet shell",0.833333333
+6,"Pullet carpet shell",0.833333333
+1,"Pullet carpet shell",0.833333333
+4,"Pullet carpet shell",0.833333333
+8,"Pullet carpet shell",0.833333333
+5,"Pullet carpet shell",0.833333333
+7,"Pullet carpet shell",0.833333333
+10,"Pullet carpet shell",0.833333333
+3,"Pullet carpet shell",0.833333333
+2,"Rainbow trout",0.566666667
+9,"Rainbow trout",0.566666667
+6,"Rainbow trout",0.566666667
+1,"Rainbow trout",0.566666667
+4,"Rainbow trout",0.566666667
+8,"Rainbow trout",0.566666667
+5,"Rainbow trout",0.566666667
+7,"Rainbow trout",0.566666667
+10,"Rainbow trout",0.566666667
+3,"Rainbow trout",0.566666667
+2,"Sea mussels nei",0.791666667
+9,"Sea mussels nei",0.791666667
+6,"Sea mussels nei",0.791666667
+1,"Sea mussels nei",0.791666667
+4,"Sea mussels nei",0.791666667
+8,"Sea mussels nei",0.791666667
+5,"Sea mussels nei",0.791666667
+7,"Sea mussels nei",0.791666667
+10,"Sea mussels nei",0.791666667
+3,"Sea mussels nei",0.791666667
+2,"Seabasses nei",0.5
+9,"Seabasses nei",0.5
+6,"Seabasses nei",0.5
+1,"Seabasses nei",0.5
+4,"Seabasses nei",0.5
+8,"Seabasses nei",0.5
+5,"Seabasses nei",0.5
+7,"Seabasses nei",0.5
+10,"Seabasses nei",0.5
+3,"Seabasses nei",0.5
+2,"Senegalese sole",0.444010417
+9,"Senegalese sole",0.444010417
+6,"Senegalese sole",0.444010417
+1,"Senegalese sole",0.444010417
+4,"Senegalese sole",0.444010417
+8,"Senegalese sole",0.444010417
+5,"Senegalese sole",0.444010417
+7,"Senegalese sole",0.444010417
+10,"Senegalese sole",0.444010417
+3,"Senegalese sole",0.444010417
+2,"Silversides(=Sand smelts) nei",0.444010417
+9,"Silversides(=Sand smelts) nei",0.444010417
+6,"Silversides(=Sand smelts) nei",0.444010417
+1,"Silversides(=Sand smelts) nei",0.444010417
+4,"Silversides(=Sand smelts) nei",0.444010417
+8,"Silversides(=Sand smelts) nei",0.444010417
+5,"Silversides(=Sand smelts) nei",0.444010417
+7,"Silversides(=Sand smelts) nei",0.444010417
+10,"Silversides(=Sand smelts) nei",0.444010417
+3,"Silversides(=Sand smelts) nei",0.444010417
+2,"Soles nei",0.444010417
+9,"Soles nei",0.444010417
+6,"Soles nei",0.444010417
+1,"Soles nei",0.444010417
+4,"Soles nei",0.444010417
+8,"Soles nei",0.444010417
+5,"Soles nei",0.444010417
+7,"Soles nei",0.444010417
+10,"Soles nei",0.444010417
+3,"Soles nei",0.444010417
+2,"Spinous spider crab",0.416666667
+9,"Spinous spider crab",0.416666667
+6,"Spinous spider crab",0.416666667
+1,"Spinous spider crab",0.416666667
+4,"Spinous spider crab",0.416666667
+8,"Spinous spider crab",0.416666667
+5,"Spinous spider crab",0.416666667
+7,"Spinous spider crab",0.416666667
+10,"Spinous spider crab",0.416666667
+3,"Spinous spider crab",0.416666667
+2,"Striped venus",0.811764706
+9,"Striped venus",0.811764706
+6,"Striped venus",0.811764706
+1,"Striped venus",0.811764706
+4,"Striped venus",0.811764706
+8,"Striped venus",0.811764706
+5,"Striped venus",0.811764706
+7,"Striped venus",0.811764706
+10,"Striped venus",0.811764706
+3,"Striped venus",0.811764706
+2,"Turbot",0.5
+9,"Turbot",0.5
+6,"Turbot",0.5
+1,"Turbot",0.5
+4,"Turbot",0.5
+8,"Turbot",0.5
+5,"Turbot",0.5
+7,"Turbot",0.5
+10,"Turbot",0.5
+3,"Turbot",0.5
+2,"Warty venus",0.811764706
+9,"Warty venus",0.811764706
+6,"Warty venus",0.811764706
+1,"Warty venus",0.811764706
+4,"Warty venus",0.811764706
+8,"Warty venus",0.811764706
+5,"Warty venus",0.811764706
+7,"Warty venus",0.811764706
+10,"Warty venus",0.811764706
+3,"Warty venus",0.811764706
+2,"White seabream",0.444010417
+9,"White seabream",0.444010417
+6,"White seabream",0.444010417
+1,"White seabream",0.444010417
+4,"White seabream",0.444010417
+8,"White seabream",0.444010417
+5,"White seabream",0.444010417
+7,"White seabream",0.444010417
+10,"White seabream",0.444010417
+3,"White seabream",0.444010417
