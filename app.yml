@@ -1,5 +1,5 @@
 # configuration for https://ohi-science.shinyapps.io/esp_app
-study_area:       Spain
+study_area:       
 git_owner:        OHI-Science
 git_repo:         esp
 git_slug:         OHI-Science/esp
@@ -8,12 +8,12 @@ app_url:          https://ohi-science.shinyapps.io/esp_app
 default_branch:   published
 default_scenario: subcountry2014
 debug:            False
-last_updated:     2014-11-25
+last_updated:     2015-03-18
 ohicore_app:
   git_owner: ohi-science
   git_repo: ohicore
-  git_branch: dev
-  git_commit: e1defd965ddbdd884893608a25a0b5dd0a1aedd2
+  git_branch: master
+  git_commit: 2f7a3d7b9103fca1885b91ae0f7afca9ce273f43
 
 tabs_hide:        
 - Calculate
