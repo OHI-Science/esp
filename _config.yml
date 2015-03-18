@@ -11,7 +11,7 @@ study_area:  Spain
 git_owner:   OHI-Science
 git_repo:    esp
 git_slug:    OHI-Science/esp
-app_url:     https://ohi-science.shinyapps.io/esp_app
+app_url:     https://jules32.shinyapps.io/esp_app
 
 default_branch_scenario: published/subcountry2014
 
