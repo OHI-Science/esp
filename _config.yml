@@ -11,9 +11,9 @@ study_area:  Spain
 git_owner:   OHI-Science
 git_repo:    esp
 git_slug:    OHI-Science/esp
-app_url:     http://ohi-science.nceas.ucsb.edu/esp
+app_url:     https://ohi-science.shinyapps.io/esp_app
 
-default_branch_scenario: subcountry2014/published
+default_branch_scenario: published/subcountry2014
 
 # Jekyll configuration
 
