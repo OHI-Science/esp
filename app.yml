@@ -1,19 +1,19 @@
-# configuration for https://ohi-science.shinyapps.io/esp_app
-study_area:       
+# configuration for https://ohi-science.nceas.ucsb.edu/esp
+study_area:       Spain
 git_owner:        OHI-Science
 git_repo:         esp
 git_slug:         OHI-Science/esp
 git_url:          https://github.com/OHI-Science/esp
-app_url:          https://ohi-science.shinyapps.io/esp_app
+app_url:          http://ohi-science.nceas.ucsb.edu/esp
 default_branch:   published
 default_scenario: subcountry2014
 debug:            False
-last_updated:     2015-03-18
+last_updated:     2015-03-23
 ohicore_app:
   git_owner: ohi-science
   git_repo: ohicore
-  git_branch: master
-  git_commit: 2f7a3d7b9103fca1885b91ae0f7afca9ce273f43
+  git_branch: dev
+  git_commit: 4430cb9fbd06adcb7bb7803f4542714f2fd01b19
 
 tabs_hide:        
 - Calculate
