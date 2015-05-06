@@ -4,8 +4,8 @@ branches:
   - draft
 env:
   global:
-  - default_branch_scenario="published/subcountry2014"
-  - study_area="Spain"
+  - default_branch_scenario: "published/subcountry2014"
+  - study_area: "Spain"
   - secure: ggiKczDqZVunN3kWfWLhxB+4Bsyirnw40lWLuFNaPO4l2s4Q9SoOQ3GvLvLzb37cnD9joRsZzMg4KyfQbv+SQQ7+hTgdTcO+J2afwVkJHgiEy5cdnTl/A92KSHPMrTBsrbiKrp18Hpg5zQl5L2fy5ucdczD2Ur/SwSgqzv162LM=
 matrix:
   fast_finish: true
