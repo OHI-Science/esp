@@ -13,7 +13,7 @@ git_repo:    esp
 git_slug:    OHI-Science/esp
 app_url:     http://ohi-science.nceas.ucsb.edu/esp
 
-default_branch_scenario: subcountry2014/published
+default_branch_scenario: published/subcountry2014
 
 # Jekyll configuration
 
