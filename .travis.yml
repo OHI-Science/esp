@@ -4,9 +4,9 @@ branches:
   - draft
 env:
   global:
-  - default_branch_scenario: "published/subcountry2014"
-  - study_area: "Spain"
-  - secure: ggiKczDqZVunN3kWfWLhxB+4Bsyirnw40lWLuFNaPO4l2s4Q9SoOQ3GvLvLzb37cnD9joRsZzMg4KyfQbv+SQQ7+hTgdTcO+J2afwVkJHgiEy5cdnTl/A92KSHPMrTBsrbiKrp18Hpg5zQl5L2fy5ucdczD2Ur/SwSgqzv162LM=
+  - default_branch_scenario: published/subcountry2014
+  - study_area: Spain
+  - secure: GOw75tYu869a83hGVg9OTx3sTTnDt1rmwgjXCiTXY6NG/aMy6H45Yj7+DViqUqZMXK+d40nW3V+UDtwWYEWg+ngCtk3OP2uerzWKdNJOwgtAKqOcLLmN8DdT+KvGq0OLuBNNVcPeB4GyV6M+XoS79NxqcAiy3OenEBTEHVk4BfM=
 matrix:
   fast_finish: true
 before_install:
@@ -22,11 +22,11 @@ install:
 - ./travis-tool.sh install_r brew
 - ./travis-tool.sh install_r rmarkdown
 - ./travis-tool.sh install_r httr
-- ./travis-tool.sh install_github ropensci/git2r
+- ./travis-tool.sh install_r git2r
 - ./travis-tool.sh install_github ohi-science/rCharts
 - ./travis-tool.sh install_github ohi-science/ohicore@dev
-- git config --global user.email "bbest@nceas.ucsb.edu"
-- git config --global user.name "Ben Best"
+- git config --global user.email "lowndes@nceas.ucsb.edu"
+- git config --global user.name "Julia Lowndes"
 script:
 - Rscript ohi-travis-functions.R calculate_scores && Rscript ohi-travis-functions.R
   create_results && Rscript ohi-travis-functions.R push_branch draft && Rscript ohi-travis-functions.R
@@ -37,5 +37,6 @@ notifications:
   email:
     recipients:
     - bbest@nceas.ucsb.edu
+    - lowndes@nceas.ucsb.edu
     on_success: change
     on_failure: always
